@@ -1,0 +1,85 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>2f1c33b3-5aa7-4006-b5ff-d126413d35ee</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>ariba_scraper_v2.2.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>ariba_scraper_v2.2</Name>
+    <RootNamespace>ariba_scraper_v2.2</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="alfamine_monitor_v1\alfamine.py" />
+    <Compile Include="alfamine_monitor_v1\Herramientas nuevas\analisis_json_usuario.py" />
+    <Compile Include="alfamine_monitor_v1\Herramientas nuevas\demo_usage.py" />
+    <Compile Include="alfamine_monitor_v1\Herramientas nuevas\learning_analyzer.py" />
+    <Compile Include="alfamine_monitor_v1\Herramientas nuevas\migrate_upgrade.py" />
+    <Compile Include="alfamine_monitor_v1\Herramientas nuevas\scheduler_automation.py" />
+    <Compile Include="alfamine_monitor_v1\Herramientas nuevas\system_monitor.py" />
+    <Compile Include="alfamine_monitor_v1\Herramientas nuevas\test_validator.py" />
+    <Compile Include="alfamine_monitor_v1\Herramientas nuevas\troubleshooter.py" />
+    <Compile Include="alfamine_monitor_v1\install.py" />
+    <Compile Include="alfamine_monitor_v1\main_improved.py" />
+    <Compile Include="alfamine_monitor_v1\mas_dropdown_fix.py" />
+    <Compile Include="alfamine_monitor_v1\fix_excel_parser.py" />
+    <Compile Include="alfamine_monitor_v1\quick_mas_fix.py" />
+    <Compile Include="alfamine_monitor_v1\setup_wizard.py" />
+    <Compile Include="alfamine_monitor_v1\sistema_iterativo_completo.py" />
+    <Compile Include="alfamine_monitor_v1\src\analyzer.py" />
+    <Compile Include="alfamine_monitor_v1\src\scraper_engine_improved.py" />
+    <Compile Include="alfamine_monitor_v1\src\__init__.py" />
+    <Compile Include="alfamine_monitor_v1\src\notifier.py" />
+    <Compile Include="alfamine_monitor_v1\src\scraper_engine.py" />
+    <Compile Include="ariba_scraper_v2.2.py" />
+    <Compile Include="extraer_links_downloads.py" />
+    <Compile Include="extraer_links_real.py" />
+    <Compile Include="main.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="alfamine_monitor_v1\config\config.json" />
+    <Content Include="alfamine_monitor_v1\data\learning\elements_after_login_1749651804.json" />
+    <Content Include="alfamine_monitor_v1\data\learning\elements_after_login_1749652346.json" />
+    <Content Include="alfamine_monitor_v1\data\learning\elements_after_login_1749660153.json" />
+    <Content Include="alfamine_monitor_v1\data\learning\elements_dropdown_opened_1749651809.json" />
+    <Content Include="alfamine_monitor_v1\data\learning\elements_dropdown_opened_1749652351.json" />
+    <Content Include="alfamine_monitor_v1\data\learning\elements_dropdown_opened_1749660158.json" />
+    <Content Include="alfamine_monitor_v1\data\learning\learning_session_20250611_102211.json" />
+    <Content Include="alfamine_monitor_v1\data\learning\learning_session_20250611_103116.json" />
+    <Content Include="alfamine_monitor_v1\data\learning\learning_session_20250611_124116.json" />
+    <Content Include="requirements.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="alfamine_monitor_v1\" />
+    <Folder Include="alfamine_monitor_v1\config\" />
+    <Folder Include="alfamine_monitor_v1\data\" />
+    <Folder Include="alfamine_monitor_v1\data\downloads\" />
+    <Folder Include="alfamine_monitor_v1\data\learning\" />
+    <Folder Include="alfamine_monitor_v1\data\logs\" />
+    <Folder Include="alfamine_monitor_v1\data\screenshots\" />
+    <Folder Include="alfamine_monitor_v1\Herramientas nuevas\" />
+    <Folder Include="alfamine_monitor_v1\reports\" />
+    <Folder Include="alfamine_monitor_v1\src\" />
+    <Folder Include="alfamine_monitor_v1\temp\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
