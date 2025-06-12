@@ -1,0 +1,1910 @@
+LICITACIONES EXTRAÍDAS DE ARIBA
+Fecha: 2025-06-11 17:08:59
+Total: 381 licitaciones
+======================================================================
+
+  1. RFP Servicio CMS para Portal Corporativo Externo (CODELCO.CO...
+     ID: Licitacion_1
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBHtZFgU&awcharset=UTF-8
+     Fila Excel: 3
+--------------------------------------------------
+  2. SUMINISTRO NEUMÁTICOS USADOS PARA CONFECCIÓN DE ROCKFALL...
+     ID: Licitacion_2
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB8B%2B9TVS&awcharset=UTF-8
+     Fila Excel: 4
+--------------------------------------------------
+  3. Suministro Centro Distribución de Carga Baja Tensión...
+     ID: Licitacion_3
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB95kbqQU&awcharset=UTF-8
+     Fila Excel: 5
+--------------------------------------------------
+  4. RFP Adq. Coronas Molinos Div. Salvador...
+     ID: Licitacion_4
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA0D9F31&awcharset=UTF-8
+     Fila Excel: 6
+--------------------------------------------------
+  5. PWP-636 Reacondicionamiento Equipos Levante_RFP Principal...
+     ID: Licitacion_5
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB3wQH3NR&awcharset=UTF-8
+     Fila Excel: 7
+--------------------------------------------------
+  6. 6001035184 MATERIALES KONNX VARIOS...
+     ID: Licitacion_6
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBH3avlM&awcharset=UTF-8
+     Fila Excel: 8
+--------------------------------------------------
+  7. 6001035183 MATERIALES KONNX VARIOS...
+     ID: Licitacion_7
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBHthF9c&awcharset=UTF-8
+     Fila Excel: 9
+--------------------------------------------------
+  8. 6001035336 - FV01 - SUM MTTO VEHICULOS PESADOS...
+     ID: Licitacion_8
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBOzkBLy&awcharset=UTF-8
+     Fila Excel: 10
+--------------------------------------------------
+  9. 6001035152 LANZA ACULATAMIENTO PLNSSPLLAPP H0149...
+     ID: Licitacion_9
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBHCWiV4&awcharset=UTF-8
+     Fila Excel: 11
+--------------------------------------------------
+ 10. 6001035271...
+     ID: Licitacion_10
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBKvJaeO&awcharset=UTF-8
+     Fila Excel: 12
+--------------------------------------------------
+ 11. Licitación Correa Overland ST6800 + Kit Empalme...
+     ID: Licitacion_11
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB7YuY7WQ&awcharset=UTF-8
+     Fila Excel: 13
+--------------------------------------------------
+ 12. IMCSPOT_T2_01068_RPTOSGRUAS_10062025...
+     ID: Licitacion_12
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBZfJGD9&awcharset=UTF-8
+     Fila Excel: 14
+--------------------------------------------------
+ 13. 6001035710...
+     ID: Licitacion_13
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBmIX80a&awcharset=UTF-8
+     Fila Excel: 15
+--------------------------------------------------
+ 14. 6001035709...
+     ID: Licitacion_14
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBmHFTVI&awcharset=UTF-8
+     Fila Excel: 16
+--------------------------------------------------
+ 15. 6001035677...
+     ID: Licitacion_15
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBl9fEDg&awcharset=UTF-8
+     Fila Excel: 17
+--------------------------------------------------
+ 16. 6001035674...
+     ID: Licitacion_16
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBl8H8uz&awcharset=UTF-8
+     Fila Excel: 18
+--------------------------------------------------
+ 17. 6001035233 - DET - RELLENO LAMINAR 19mm PP SOLDADO...
+     ID: Licitacion_17
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBJ%21kuiO&awcharset=UTF-8
+     Fila Excel: 19
+--------------------------------------------------
+ 18. 6001035182...
+     ID: Licitacion_18
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBH3ODN0&awcharset=UTF-8
+     Fila Excel: 20
+--------------------------------------------------
+ 19. 6001035313 - DET - SENSOR PRES SANDVIK BG01265645...
+     ID: Licitacion_19
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBOn2Cpr&awcharset=UTF-8
+     Fila Excel: 21
+--------------------------------------------------
+ 20. 6001035225...
+     ID: Licitacion_20
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBJaBWPH&awcharset=UTF-8
+     Fila Excel: 22
+--------------------------------------------------
+ 21. 6001035469...
+     ID: Licitacion_21
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBZdz5vS&awcharset=UTF-8
+     Fila Excel: 23
+--------------------------------------------------
+ 22. 6001035205...
+     ID: Licitacion_22
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBIk8Ok2&awcharset=UTF-8
+     Fila Excel: 24
+--------------------------------------------------
+ 23. 6001034825...
+     ID: Licitacion_23
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAmxCika&awcharset=UTF-8
+     Fila Excel: 25
+--------------------------------------------------
+ 24. 6001035200...
+     ID: Licitacion_24
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBH%2By%21Vl&awcharset=UTF-8
+     Fila Excel: 26
+--------------------------------------------------
+ 25. 6001035325...
+     ID: Licitacion_25
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBOtZk%2Bn&awcharset=UTF-8
+     Fila Excel: 27
+--------------------------------------------------
+ 26. 6001035647...
+     ID: Licitacion_26
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBjpB9I6&awcharset=UTF-8
+     Fila Excel: 28
+--------------------------------------------------
+ 27. 6001035622...
+     ID: Licitacion_27
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBi4ygrt&awcharset=UTF-8
+     Fila Excel: 29
+--------------------------------------------------
+ 28. 6001035607...
+     ID: Licitacion_28
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBiAvwrO&awcharset=UTF-8
+     Fila Excel: 30
+--------------------------------------------------
+ 29. 6001035571...
+     ID: Licitacion_29
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBdRCLFs&awcharset=UTF-8
+     Fila Excel: 31
+--------------------------------------------------
+ 30. 6001035498...
+     ID: Licitacion_30
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBZsOJ7Q&awcharset=UTF-8
+     Fila Excel: 32
+--------------------------------------------------
+ 31. 6001035481...
+     ID: Licitacion_31
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBZhn%2BRK&awcharset=UTF-8
+     Fila Excel: 33
+--------------------------------------------------
+ 32. Insumos de Ferretería...
+     ID: Licitacion_32
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB8vwAs6D&awcharset=UTF-8
+     Fila Excel: 34
+--------------------------------------------------
+ 33. 6001035453...
+     ID: Licitacion_33
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBZHj%2B0O&awcharset=UTF-8
+     Fila Excel: 35
+--------------------------------------------------
+ 34. 6001035160-DAN-PLACA CTRL ABB 3BHE029110R0111...
+     ID: Licitacion_34
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBHGKCCf&awcharset=UTF-8
+     Fila Excel: 36
+--------------------------------------------------
+ 35. 6001035194...
+     ID: Licitacion_35
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBH8XOu2&awcharset=UTF-8
+     Fila Excel: 37
+--------------------------------------------------
+ 36. 6001035074...
+     ID: Licitacion_36
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA9nuf1W&awcharset=UTF-8
+     Fila Excel: 38
+--------------------------------------------------
+ 37. 6001035051 - DET - EJE CARRO PSONDEADORA LM75...
+     ID: Licitacion_37
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA5bgKy2&awcharset=UTF-8
+     Fila Excel: 39
+--------------------------------------------------
+ 38. 6001035084...
+     ID: Licitacion_38
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA9rHSNZ&awcharset=UTF-8
+     Fila Excel: 40
+--------------------------------------------------
+ 39. 6001035282...
+     ID: Licitacion_39
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBLACKUH&awcharset=UTF-8
+     Fila Excel: 41
+--------------------------------------------------
+ 40. 6001034904...
+     ID: Licitacion_40
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAo2Opek&awcharset=UTF-8
+     Fila Excel: 42
+--------------------------------------------------
+ 41. 6001035278...
+     ID: Licitacion_41
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBK1iUXe&awcharset=UTF-8
+     Fila Excel: 43
+--------------------------------------------------
+ 42. 6001035338 - FV01 - EQUIPOS PARA TRANSMISION DE POTENCIA...
+     ID: Licitacion_42
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBO5poJo&awcharset=UTF-8
+     Fila Excel: 44
+--------------------------------------------------
+ 43. 6001035100...
+     ID: Licitacion_43
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA9utvcM&awcharset=UTF-8
+     Fila Excel: 45
+--------------------------------------------------
+ 44. 6001035280...
+     ID: Licitacion_44
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBK2Ez1a&awcharset=UTF-8
+     Fila Excel: 46
+--------------------------------------------------
+ 45. 6001034453...
+     ID: Licitacion_45
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAL8%2Byig&awcharset=UTF-8
+     Fila Excel: 47
+--------------------------------------------------
+ 46. 6001034916...
+     ID: Licitacion_46
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAqY6f2y&awcharset=UTF-8
+     Fila Excel: 48
+--------------------------------------------------
+ 47. 6001034259 - DGM - SUM MTTO ROTOPALAS...
+     ID: Licitacion_47
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAB9MAUk&awcharset=UTF-8
+     Fila Excel: 49
+--------------------------------------------------
+ 48. 6001034908...
+     ID: Licitacion_48
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCApkiuKZ&awcharset=UTF-8
+     Fila Excel: 50
+--------------------------------------------------
+ 49. 6001034755 - DET - TRANSMISOR CAT 2482036...
+     ID: Licitacion_49
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAg%21wOEk&awcharset=UTF-8
+     Fila Excel: 51
+--------------------------------------------------
+ 50. 6001034791 DFV PLACA TITANIO 1119X980mm PLN12300351097...
+     ID: Licitacion_50
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAhGtguv&awcharset=UTF-8
+     Fila Excel: 52
+--------------------------------------------------
+ 51. 6001034907...
+     ID: Licitacion_51
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCApkispP&awcharset=UTF-8
+     Fila Excel: 53
+--------------------------------------------------
+ 52. 6001033683...
+     ID: Licitacion_52
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21W0v5wH&awcharset=UTF-8
+     Fila Excel: 54
+--------------------------------------------------
+ 53. 6001035052 - DET - PISTON BOART LONGYEAR 3001001...
+     ID: Licitacion_53
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA5bOhvI&awcharset=UTF-8
+     Fila Excel: 55
+--------------------------------------------------
+ 54. 6001034989...
+     ID: Licitacion_54
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAuo4%2BhM&awcharset=UTF-8
+     Fila Excel: 56
+--------------------------------------------------
+ 55. 6001034764...
+     ID: Licitacion_55
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAhA6qVm&awcharset=UTF-8
+     Fila Excel: 57
+--------------------------------------------------
+ 56. 6001035095...
+     ID: Licitacion_56
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA9s0muo&awcharset=UTF-8
+     Fila Excel: 58
+--------------------------------------------------
+ 57. 6001029888...
+     ID: Licitacion_57
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB6s3%21gHm&awcharset=UTF-8
+     Fila Excel: 59
+--------------------------------------------------
+ 58. 6001034214...
+     ID: Licitacion_58
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAALIXYl&awcharset=UTF-8
+     Fila Excel: 60
+--------------------------------------------------
+ 59. 6001035166-DAN-OREJA RECTA PLN6615220SSACHFMEPL029 REV0...
+     ID: Licitacion_59
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBHJ2U%21r&awcharset=UTF-8
+     Fila Excel: 61
+--------------------------------------------------
+ 60. 6001034911...
+     ID: Licitacion_60
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCApn3Kn5&awcharset=UTF-8
+     Fila Excel: 62
+--------------------------------------------------
+ 61. 6001035426 - DET - CONTACTO SANDVIK 08001303...
+     ID: Licitacion_61
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBXhFO8q&awcharset=UTF-8
+     Fila Excel: 63
+--------------------------------------------------
+ 62. 6001035577 - DET - FILTRO PRES PM OIL  STEEL PMG149070000...
+     ID: Licitacion_62
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBdW1O9A&awcharset=UTF-8
+     Fila Excel: 64
+--------------------------------------------------
+ 63. 6001035576 - DET - EQUIPOS PARA TRANSMISION DE POTENCIA...
+     ID: Licitacion_63
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBdWDmzb&awcharset=UTF-8
+     Fila Excel: 65
+--------------------------------------------------
+ 64. 6001035565 - DET - SWITCH PH 79Z976D1...
+     ID: Licitacion_64
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBdP8YMF&awcharset=UTF-8
+     Fila Excel: 66
+--------------------------------------------------
+ 65. 6001035559 - DET - CUERDA PLASSER ELT57610B...
+     ID: Licitacion_65
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBdM80sp&awcharset=UTF-8
+     Fila Excel: 67
+--------------------------------------------------
+ 66. 6001035491 - DGM - INICIADOR AFEX WESTIFRE A709500...
+     ID: Licitacion_66
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBZkFvtL&awcharset=UTF-8
+     Fila Excel: 68
+--------------------------------------------------
+ 67. 6001035549 - DET - SISTEMA CRUCE CALLE CAT MP101191...
+     ID: Licitacion_67
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBdGzenp&awcharset=UTF-8
+     Fila Excel: 69
+--------------------------------------------------
+ 68. 6001035548 - DET - SUM MTTO EQUIPOS DE PERFORACION...
+     ID: Licitacion_68
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBdGylb0&awcharset=UTF-8
+     Fila Excel: 70
+--------------------------------------------------
+ 69. 6001035547 - DET - CONECTOR SANDVIK 56014821...
+     ID: Licitacion_69
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBdBO%21LB&awcharset=UTF-8
+     Fila Excel: 71
+--------------------------------------------------
+ 70. 6001035531 - DET - CABLES DE ACERO Y ELEMENTOS DE IZAJE...
+     ID: Licitacion_70
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBc8%21dM8&awcharset=UTF-8
+     Fila Excel: 72
+--------------------------------------------------
+ 71. 6001035596 - FV01 - SUM MTTO PUENTES GRUAS Y GRUAS PORTALES...
+     ID: Licitacion_71
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBc02y6m&awcharset=UTF-8
+     Fila Excel: 73
+--------------------------------------------------
+ 72. 6001035566 - DET - SUM MTTO TRANSMISION DE POTENCIA...
+     ID: Licitacion_72
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBdM87f%2B&awcharset=UTF-8
+     Fila Excel: 74
+--------------------------------------------------
+ 73. 6001034993...
+     ID: Licitacion_73
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAupUrS%21&awcharset=UTF-8
+     Fila Excel: 75
+--------------------------------------------------
+ 74. 6001035463...
+     ID: Licitacion_74
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBZcvBfs&awcharset=UTF-8
+     Fila Excel: 76
+--------------------------------------------------
+ 75. 6001034822...
+     ID: Licitacion_75
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAmi8tRm&awcharset=UTF-8
+     Fila Excel: 77
+--------------------------------------------------
+ 76. 6001034985...
+     ID: Licitacion_76
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAumBCka&awcharset=UTF-8
+     Fila Excel: 78
+--------------------------------------------------
+ 77. 6001035128...
+     ID: Licitacion_77
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBGLkYmz&awcharset=UTF-8
+     Fila Excel: 79
+--------------------------------------------------
+ 78. 6001035039...
+     ID: Licitacion_78
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA3Myw05&awcharset=UTF-8
+     Fila Excel: 80
+--------------------------------------------------
+ 79. 6001033738...
+     ID: Licitacion_79
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21W%21jVii&awcharset=UTF-8
+     Fila Excel: 81
+--------------------------------------------------
+ 80. 6001034603...
+     ID: Licitacion_80
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCATDzQ63&awcharset=UTF-8
+     Fila Excel: 82
+--------------------------------------------------
+ 81. 6001033924...
+     ID: Licitacion_81
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21k1TAJ4&awcharset=UTF-8
+     Fila Excel: 83
+--------------------------------------------------
+ 82. 6001035179...
+     ID: Licitacion_82
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBHzrRsL&awcharset=UTF-8
+     Fila Excel: 84
+--------------------------------------------------
+ 83. 6001035390-DAN-SELECTOR SCHNEIDER XB4BJ53...
+     ID: Licitacion_83
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBV6cFah&awcharset=UTF-8
+     Fila Excel: 85
+--------------------------------------------------
+ 84. 6001035141...
+     ID: Licitacion_84
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBGOrOp0&awcharset=UTF-8
+     Fila Excel: 86
+--------------------------------------------------
+ 85. 6001035186...
+     ID: Licitacion_85
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBH4yT5L&awcharset=UTF-8
+     Fila Excel: 87
+--------------------------------------------------
+ 86. 6001035136...
+     ID: Licitacion_86
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBGN113y&awcharset=UTF-8
+     Fila Excel: 88
+--------------------------------------------------
+ 87. 6001031964...
+     ID: Licitacion_87
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB9LmOpv5&awcharset=UTF-8
+     Fila Excel: 89
+--------------------------------------------------
+ 88. 6001033611...
+     ID: Licitacion_88
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21WZUJdB&awcharset=UTF-8
+     Fila Excel: 90
+--------------------------------------------------
+ 89. 6001034384 DAN CABLE TAC 14 AWG AMARILLO...
+     ID: Licitacion_89
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAKsyRsV&awcharset=UTF-8
+     Fila Excel: 91
+--------------------------------------------------
+ 90. 6001032228...
+     ID: Licitacion_90
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB9in4RBv&awcharset=UTF-8
+     Fila Excel: 92
+--------------------------------------------------
+ 91. 6001033781...
+     ID: Licitacion_91
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21dhvNgx&awcharset=UTF-8
+     Fila Excel: 93
+--------------------------------------------------
+ 92. 6001035376-DAN-TUERCA AC HEX...
+     ID: Licitacion_92
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBVQwUIr&awcharset=UTF-8
+     Fila Excel: 94
+--------------------------------------------------
+ 93. 6001033709...
+     ID: Licitacion_93
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21W6qRdy&awcharset=UTF-8
+     Fila Excel: 95
+--------------------------------------------------
+ 94. 6001034464...
+     ID: Licitacion_94
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAMHbv9w&awcharset=UTF-8
+     Fila Excel: 96
+--------------------------------------------------
+ 95. 6001034709...
+     ID: Licitacion_95
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAdFLS%21M&awcharset=UTF-8
+     Fila Excel: 97
+--------------------------------------------------
+ 96. 6001034949...
+     ID: Licitacion_96
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCArcwt%21i&awcharset=UTF-8
+     Fila Excel: 98
+--------------------------------------------------
+ 97. 6001034268...
+     ID: Licitacion_97
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAB%2BzhRs&awcharset=UTF-8
+     Fila Excel: 99
+--------------------------------------------------
+ 98. 6001035283...
+     ID: Licitacion_98
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBLAwdjn&awcharset=UTF-8
+     Fila Excel: 100
+--------------------------------------------------
+ 99. 6001034208...
+     ID: Licitacion_99
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAAGnSUp&awcharset=UTF-8
+     Fila Excel: 101
+--------------------------------------------------
+100. 6001033803...
+     ID: Licitacion_100
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21gBkb8q&awcharset=UTF-8
+     Fila Excel: 102
+--------------------------------------------------
+101. 6001034898...
+     ID: Licitacion_101
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAo2gJx%2B&awcharset=UTF-8
+     Fila Excel: 103
+--------------------------------------------------
+102. 6001034948...
+     ID: Licitacion_102
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCArcwqh8&awcharset=UTF-8
+     Fila Excel: 104
+--------------------------------------------------
+103. 6001034129...
+     ID: Licitacion_103
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%218EoMAX&awcharset=UTF-8
+     Fila Excel: 105
+--------------------------------------------------
+104. 6001034267...
+     ID: Licitacion_104
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAB%2BvgEZ&awcharset=UTF-8
+     Fila Excel: 106
+--------------------------------------------------
+105. 6001035113...
+     ID: Licitacion_105
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBEsqYXm&awcharset=UTF-8
+     Fila Excel: 107
+--------------------------------------------------
+106. 6001034897...
+     ID: Licitacion_106
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAo2gImG&awcharset=UTF-8
+     Fila Excel: 108
+--------------------------------------------------
+107. 6001034707 SISTEMA TENSOR PLNPRYDRTCHPO012025 REVA...
+     ID: Licitacion_107
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAdFLQDr&awcharset=UTF-8
+     Fila Excel: 109
+--------------------------------------------------
+108. 6001034439...
+     ID: Licitacion_108
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAMwTvbn&awcharset=UTF-8
+     Fila Excel: 110
+--------------------------------------------------
+109. 6001034266...
+     ID: Licitacion_109
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAB%2BvejT&awcharset=UTF-8
+     Fila Excel: 111
+--------------------------------------------------
+110. 6001034924...
+     ID: Licitacion_110
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAqfjyoh&awcharset=UTF-8
+     Fila Excel: 112
+--------------------------------------------------
+111. 6001035022...
+     ID: Licitacion_111
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA2DH6ju&awcharset=UTF-8
+     Fila Excel: 113
+--------------------------------------------------
+112. 6001034560...
+     ID: Licitacion_112
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAQNCIBH&awcharset=UTF-8
+     Fila Excel: 114
+--------------------------------------------------
+113. 6001034561...
+     ID: Licitacion_113
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAQNl1QC&awcharset=UTF-8
+     Fila Excel: 115
+--------------------------------------------------
+114. 6001034200...
+     ID: Licitacion_114
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21%2BzROPK&awcharset=UTF-8
+     Fila Excel: 116
+--------------------------------------------------
+115. 6001034917...
+     ID: Licitacion_115
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAqaHqJJ&awcharset=UTF-8
+     Fila Excel: 117
+--------------------------------------------------
+116. 6001034265 - DGM - SUM MTTO EQUIPOS DE ELECTRICIDAD Y COMPON...
+     ID: Licitacion_116
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAB%2BvdZD&awcharset=UTF-8
+     Fila Excel: 118
+--------------------------------------------------
+117. 6001034593 - DET - AISLAMIENTO TERMICO MAMMOTH B92593...
+     ID: Licitacion_117
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAS%21zmZ0&awcharset=UTF-8
+     Fila Excel: 119
+--------------------------------------------------
+118. 6001021334...
+     ID: Licitacion_118
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBxdin09u&awcharset=UTF-8
+     Fila Excel: 120
+--------------------------------------------------
+119. 6001035263 - DGM - WINCHE APPLETON MARINE YMD10071...
+     ID: Licitacion_119
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBKtnbkY&awcharset=UTF-8
+     Fila Excel: 121
+--------------------------------------------------
+120. SUMINISTRO TRANSFORMADORES TRIFASICOS 2500 KVA 13800-2400V...
+     ID: Licitacion_120
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB3VvFNdN&awcharset=UTF-8
+     Fila Excel: 122
+--------------------------------------------------
+121. 6001035340 - DET - ESPACIADOR 3-14 TB WOODS 8SCH...
+     ID: Licitacion_121
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBP9oa5B&awcharset=UTF-8
+     Fila Excel: 123
+--------------------------------------------------
+122. 6001035400 - DAN - ACOPLAMIENTO FLEXIBLE FALK 1140T41...
+     ID: Licitacion_122
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBWCoPAq&awcharset=UTF-8
+     Fila Excel: 124
+--------------------------------------------------
+123. 6001034885-DAN-POLEA MOTRIZ CONDUC CJTO PLNCRM20180080...
+     ID: Licitacion_123
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAoX%2BOJU&awcharset=UTF-8
+     Fila Excel: 125
+--------------------------------------------------
+124. 6001035339 - DET - BOMBA ENGRANAJES ANDRITZ 4081412...
+     ID: Licitacion_124
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBP9oZup&awcharset=UTF-8
+     Fila Excel: 126
+--------------------------------------------------
+125. 6001035412 - DAN - MORDAZA FLEXCO LSHD48...
+     ID: Licitacion_125
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBWWDAbb&awcharset=UTF-8
+     Fila Excel: 127
+--------------------------------------------------
+126. 6001035384 - DAN - CONNECTOR ACOPCO 5500510700...
+     ID: Licitacion_126
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBVbdFXd&awcharset=UTF-8
+     Fila Excel: 128
+--------------------------------------------------
+127. 6001035319 - DET - TELA LAROX PP 1,7X62,5m...
+     ID: Licitacion_127
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBOrgDL%2B&awcharset=UTF-8
+     Fila Excel: 129
+--------------------------------------------------
+128. 6001035317 - DET - SUM MTTO CAMIONES DE BAJO TONELAJE...
+     ID: Licitacion_128
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBOpyktp&awcharset=UTF-8
+     Fila Excel: 130
+--------------------------------------------------
+129. 6001035305 - DET - SUM MTTO CARGADORES FRONTALES...
+     ID: Licitacion_129
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBOgPSTN&awcharset=UTF-8
+     Fila Excel: 131
+--------------------------------------------------
+130. 6001035257 - DGM - CABLE KONECRANES 52294942...
+     ID: Licitacion_130
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBKsIf7k&awcharset=UTF-8
+     Fila Excel: 132
+--------------------------------------------------
+131. 6001035255 - DGM - TRASPALETA 1500-3000kg...
+     ID: Licitacion_131
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBKruxEg&awcharset=UTF-8
+     Fila Excel: 133
+--------------------------------------------------
+132. 6001035369 - DAN - CORREA TRANSM V B75 POWERSPAN...
+     ID: Licitacion_132
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBVMXf8l&awcharset=UTF-8
+     Fila Excel: 134
+--------------------------------------------------
+133. 6001034515 - DAN - ANTICOLISION COMUN JG WABTEC CGLVCHL...
+     ID: Licitacion_133
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAQCaVGx&awcharset=UTF-8
+     Fila Excel: 135
+--------------------------------------------------
+134. 6001035249 - DGM - POLVO QUIMICO WESTFIRE PA90P03SA...
+     ID: Licitacion_134
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBKqHOlS&awcharset=UTF-8
+     Fila Excel: 136
+--------------------------------------------------
+135. 6001034514 - DAN - ANTICOLISION ESPEC JG WABTEC KITCGG3UHT...
+     ID: Licitacion_135
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAQCJaXv&awcharset=UTF-8
+     Fila Excel: 137
+--------------------------------------------------
+136. 6001035248 - DGM - EMPAQUETADURA 1.0 CATERPILLAR 1329826...
+     ID: Licitacion_136
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBKp24Le&awcharset=UTF-8
+     Fila Excel: 138
+--------------------------------------------------
+137. 6001034513 - DAN - ANTICOLISION COMUN JG WABTEC CGG3WUCHL...
+     ID: Licitacion_137
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAQBqLDe&awcharset=UTF-8
+     Fila Excel: 139
+--------------------------------------------------
+138. 6001035209...
+     ID: Licitacion_138
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBInu6dD&awcharset=UTF-8
+     Fila Excel: 140
+--------------------------------------------------
+139. 6001035347 - DET - CORREA TRANSMISION V E30...
+     ID: Licitacion_139
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBTwF2Yo&awcharset=UTF-8
+     Fila Excel: 141
+--------------------------------------------------
+140. 6001035245 - DGM - CABLES DE ACERO Y ELEMENTOS DE IZAJE...
+     ID: Licitacion_140
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBKp1HUX&awcharset=UTF-8
+     Fila Excel: 142
+--------------------------------------------------
+141. 6001035082...
+     ID: Licitacion_141
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA9p9kqW&awcharset=UTF-8
+     Fila Excel: 143
+--------------------------------------------------
+142. 6001033971...
+     ID: Licitacion_142
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21s%21jlj4&awcharset=UTF-8
+     Fila Excel: 144
+--------------------------------------------------
+143. 6001035279 - DGM - ARANDELA CAT 4547179...
+     ID: Licitacion_143
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBK1iVpL&awcharset=UTF-8
+     Fila Excel: 145
+--------------------------------------------------
+144. 6001033151 - DET - MANDO FINAL COMPLETO CAT 3117085...
+     ID: Licitacion_144
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%2B3EfocC&awcharset=UTF-8
+     Fila Excel: 146
+--------------------------------------------------
+145. 6001034915...
+     ID: Licitacion_145
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAprTZcY&awcharset=UTF-8
+     Fila Excel: 147
+--------------------------------------------------
+146. 6001034295 - DGM - PERNO TENSOR PLNDGM031L03 REV0...
+     ID: Licitacion_146
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCACDFDWz&awcharset=UTF-8
+     Fila Excel: 148
+--------------------------------------------------
+147. 6001034960 DET- TABLERO FZA-CTRL 2000X1600X800mm...
+     ID: Licitacion_147
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCArhAKJ1&awcharset=UTF-8
+     Fila Excel: 149
+--------------------------------------------------
+148. 6001033221...
+     ID: Licitacion_148
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%2B40xUoT&awcharset=UTF-8
+     Fila Excel: 150
+--------------------------------------------------
+149. 6001034951...
+     ID: Licitacion_149
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCArfpdCc&awcharset=UTF-8
+     Fila Excel: 151
+--------------------------------------------------
+150. 6001035290 DET-PERNO PARKER M10X25MM AC INOX PASO1.5...
+     ID: Licitacion_150
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBNdnIZr&awcharset=UTF-8
+     Fila Excel: 152
+--------------------------------------------------
+151. 6001034081...
+     ID: Licitacion_151
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%210fqyp1&awcharset=UTF-8
+     Fila Excel: 153
+--------------------------------------------------
+152. 6001035064 - DET - LIMPIADOR CEPILLO ASGCO MASGRBC60NM...
+     ID: Licitacion_152
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA5d%2BRDG&awcharset=UTF-8
+     Fila Excel: 154
+--------------------------------------------------
+153. 6001035232 - DET - TORNILLO HEXAGONAL LAROX 1575...
+     ID: Licitacion_153
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBJ%21Meox&awcharset=UTF-8
+     Fila Excel: 155
+--------------------------------------------------
+154. 6001035064 - DET - UNION 1.12 FLEXCO 20004...
+     ID: Licitacion_154
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA5bgSNP&awcharset=UTF-8
+     Fila Excel: 156
+--------------------------------------------------
+155. 6001034456...
+     ID: Licitacion_155
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAMATdwu&awcharset=UTF-8
+     Fila Excel: 157
+--------------------------------------------------
+156. 6001034522...
+     ID: Licitacion_156
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAQBVCOu&awcharset=UTF-8
+     Fila Excel: 158
+--------------------------------------------------
+157. 6001034454...
+     ID: Licitacion_157
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAL9twyy&awcharset=UTF-8
+     Fila Excel: 159
+--------------------------------------------------
+158. 6001035093...
+     ID: Licitacion_158
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA9t58%2BT&awcharset=UTF-8
+     Fila Excel: 160
+--------------------------------------------------
+159. 6001022510...
+     ID: Licitacion_159
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBzSqmz6c&awcharset=UTF-8
+     Fila Excel: 161
+--------------------------------------------------
+160. 6001034797...
+     ID: Licitacion_160
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAlqv5v8&awcharset=UTF-8
+     Fila Excel: 162
+--------------------------------------------------
+161. 6001034558...
+     ID: Licitacion_161
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAQNalAd&awcharset=UTF-8
+     Fila Excel: 163
+--------------------------------------------------
+162. 6001034795...
+     ID: Licitacion_162
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAkz80Kh&awcharset=UTF-8
+     Fila Excel: 164
+--------------------------------------------------
+163. 6001034962...
+     ID: Licitacion_163
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAr3LetL&awcharset=UTF-8
+     Fila Excel: 165
+--------------------------------------------------
+164. 6001034080...
+     ID: Licitacion_164
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%210VwHuG&awcharset=UTF-8
+     Fila Excel: 166
+--------------------------------------------------
+165. 6001034462...
+     ID: Licitacion_165
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAMFmxvn&awcharset=UTF-8
+     Fila Excel: 167
+--------------------------------------------------
+166. 6001034689 DAN CARGADOR BATERIA RADIOMATIC QD405000...
+     ID: Licitacion_166
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAaWgnhy&awcharset=UTF-8
+     Fila Excel: 168
+--------------------------------------------------
+167. 6001035088...
+     ID: Licitacion_167
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA9sizr5&awcharset=UTF-8
+     Fila Excel: 169
+--------------------------------------------------
+168. 6001035083...
+     ID: Licitacion_168
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA9o7Pup&awcharset=UTF-8
+     Fila Excel: 170
+--------------------------------------------------
+169. 6001033977...
+     ID: Licitacion_169
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21tEUIgK&awcharset=UTF-8
+     Fila Excel: 171
+--------------------------------------------------
+170. 6001032658...
+     ID: Licitacion_170
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%2BGMZLjX&awcharset=UTF-8
+     Fila Excel: 172
+--------------------------------------------------
+171. 6001034895...
+     ID: Licitacion_171
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAo0ad%21u&awcharset=UTF-8
+     Fila Excel: 173
+--------------------------------------------------
+172. 6001033765...
+     ID: Licitacion_172
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21XDw9vO&awcharset=UTF-8
+     Fila Excel: 174
+--------------------------------------------------
+173. 6001034845...
+     ID: Licitacion_173
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAnMZCtq&awcharset=UTF-8
+     Fila Excel: 175
+--------------------------------------------------
+174. 6001034685-DAN-EJE CJTO SUP INF PLNCO225154...
+     ID: Licitacion_174
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAaV2Bj%21&awcharset=UTF-8
+     Fila Excel: 176
+--------------------------------------------------
+175. 6001034939...
+     ID: Licitacion_175
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAqrjhbi&awcharset=UTF-8
+     Fila Excel: 177
+--------------------------------------------------
+176. 6001034839...
+     ID: Licitacion_176
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAnKK%213I&awcharset=UTF-8
+     Fila Excel: 178
+--------------------------------------------------
+177. 6001035196...
+     ID: Licitacion_177
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBH91t23&awcharset=UTF-8
+     Fila Excel: 179
+--------------------------------------------------
+178. 6001034847...
+     ID: Licitacion_178
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAnMWT3M&awcharset=UTF-8
+     Fila Excel: 180
+--------------------------------------------------
+179. 6001034521...
+     ID: Licitacion_179
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAQAjmHl&awcharset=UTF-8
+     Fila Excel: 181
+--------------------------------------------------
+180. 6001034444...
+     ID: Licitacion_180
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAMzSTfd&awcharset=UTF-8
+     Fila Excel: 182
+--------------------------------------------------
+181. 6001033574-DAN-VORTEX FINDER PLNCRM2024112 REV0...
+     ID: Licitacion_181
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21VwiEmI&awcharset=UTF-8
+     Fila Excel: 183
+--------------------------------------------------
+182. 6001034920...
+     ID: Licitacion_182
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAqdlbtd&awcharset=UTF-8
+     Fila Excel: 184
+--------------------------------------------------
+183. 6001035108 DET- BUJES DE DESCARGA MATERIALES CON PLANOS...
+     ID: Licitacion_183
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA%2Bh3cMd&awcharset=UTF-8
+     Fila Excel: 185
+--------------------------------------------------
+184. 6001034844...
+     ID: Licitacion_184
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAnMBIiZ&awcharset=UTF-8
+     Fila Excel: 186
+--------------------------------------------------
+185. 6001035231 - DET - JUNTA TORICA LAROX 6154...
+     ID: Licitacion_185
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBJ9xObC&awcharset=UTF-8
+     Fila Excel: 187
+--------------------------------------------------
+186. 6001035028...
+     ID: Licitacion_186
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA3MbWUV&awcharset=UTF-8
+     Fila Excel: 188
+--------------------------------------------------
+187. 6001033234...
+     ID: Licitacion_187
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%2B5UvxnZ&awcharset=UTF-8
+     Fila Excel: 189
+--------------------------------------------------
+188. 6001034068...
+     ID: Licitacion_188
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21ylGihj&awcharset=UTF-8
+     Fila Excel: 190
+--------------------------------------------------
+189. 6001035253 DGM CABLE  Y PORTA FUSIBLE...
+     ID: Licitacion_189
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBKreZ6j&awcharset=UTF-8
+     Fila Excel: 191
+--------------------------------------------------
+190. 6001034875-DAN-MANGUEROTE CURVO PLNCRM2024127 REV0...
+     ID: Licitacion_190
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAoQ2iP9&awcharset=UTF-8
+     Fila Excel: 192
+--------------------------------------------------
+191. 6001034455...
+     ID: Licitacion_191
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAL%21hy8B&awcharset=UTF-8
+     Fila Excel: 193
+--------------------------------------------------
+192. 6001034359...
+     ID: Licitacion_192
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAJpDLOQ&awcharset=UTF-8
+     Fila Excel: 194
+--------------------------------------------------
+193. 6001034683-DAN-CONTACTOR ERIEZ 219454...
+     ID: Licitacion_193
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAaXEJx7&awcharset=UTF-8
+     Fila Excel: 195
+--------------------------------------------------
+194. 6001035109 - DET - GRILLETE LIRA AC CARB 8,5t 1 61...
+     ID: Licitacion_194
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA%2Bh3diq&awcharset=UTF-8
+     Fila Excel: 196
+--------------------------------------------------
+195. 6001034133...
+     ID: Licitacion_195
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%218FlobV&awcharset=UTF-8
+     Fila Excel: 197
+--------------------------------------------------
+196. 6001034965...
+     ID: Licitacion_196
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAs%2Binpm&awcharset=UTF-8
+     Fila Excel: 198
+--------------------------------------------------
+197. 6001034874-DAN-TERMOGUARDERA PLNCRM20241033 REV0...
+     ID: Licitacion_197
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAoPwhUy&awcharset=UTF-8
+     Fila Excel: 199
+--------------------------------------------------
+198. 6001034365...
+     ID: Licitacion_198
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAJvHZD%2B&awcharset=UTF-8
+     Fila Excel: 200
+--------------------------------------------------
+199. 6001034375...
+     ID: Licitacion_199
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAKkiyUd&awcharset=UTF-8
+     Fila Excel: 201
+--------------------------------------------------
+200. 6001034552...
+     ID: Licitacion_200
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAQNCFmI&awcharset=UTF-8
+     Fila Excel: 202
+--------------------------------------------------
+201. 6001034896...
+     ID: Licitacion_201
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAo0cTYw&awcharset=UTF-8
+     Fila Excel: 203
+--------------------------------------------------
+202. 6001034877 DAN CONJUNTO TAMBOR FAWICK A405677...
+     ID: Licitacion_202
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAoTemSr&awcharset=UTF-8
+     Fila Excel: 204
+--------------------------------------------------
+203. 6001034443...
+     ID: Licitacion_203
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAMx%2167T&awcharset=UTF-8
+     Fila Excel: 205
+--------------------------------------------------
+204. 6001034852 DAN TUERCA AC HEX GR2 -GR5...
+     ID: Licitacion_204
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAoB3flJ&awcharset=UTF-8
+     Fila Excel: 206
+--------------------------------------------------
+205. 6001030167...
+     ID: Licitacion_205
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB64zaIXs&awcharset=UTF-8
+     Fila Excel: 207
+--------------------------------------------------
+206. 6001035306 - DET - SUM MTTO EQUIPOS CARGUIO...
+     ID: Licitacion_206
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBOb1v1n&awcharset=UTF-8
+     Fila Excel: 208
+--------------------------------------------------
+207. 6001034660 - DGM - CORREA TRANSP EP12504 1829mmX350m...
+     ID: Licitacion_207
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAZdVg2q&awcharset=UTF-8
+     Fila Excel: 209
+--------------------------------------------------
+208. 6001035241  DGM INSUMOS FERRETERIA...
+     ID: Licitacion_208
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBKXryeh&awcharset=UTF-8
+     Fila Excel: 210
+--------------------------------------------------
+209. 6001034623-DAN-JGO CONTACTOS FUERZA CUTLER 6452...
+     ID: Licitacion_209
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAYqTJMh&awcharset=UTF-8
+     Fila Excel: 211
+--------------------------------------------------
+210. 6001034843...
+     ID: Licitacion_210
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAnKYJoB&awcharset=UTF-8
+     Fila Excel: 212
+--------------------------------------------------
+211. 6001035201...
+     ID: Licitacion_211
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBIAreU5&awcharset=UTF-8
+     Fila Excel: 213
+--------------------------------------------------
+212. 6001015568...
+     ID: Licitacion_212
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBra1SgL%21&awcharset=UTF-8
+     Fila Excel: 214
+--------------------------------------------------
+213. 6001035080...
+     ID: Licitacion_213
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA9o7MGw&awcharset=UTF-8
+     Fila Excel: 215
+--------------------------------------------------
+214. 6001034681-DAN-TUBO FLEX LEGRAND 387443...
+     ID: Licitacion_214
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAaXEIcH&awcharset=UTF-8
+     Fila Excel: 216
+--------------------------------------------------
+215. 6001034164 DAN MATERIALES LINTEC...
+     ID: Licitacion_215
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21%2B8hyLz&awcharset=UTF-8
+     Fila Excel: 217
+--------------------------------------------------
+216. 6001034616 - DET - VALVULA RETENCION ANDRITZ 4010964...
+     ID: Licitacion_216
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAW4%2BiuK&awcharset=UTF-8
+     Fila Excel: 218
+--------------------------------------------------
+217. 6001034694 DAN CARRO ENCHUFE IP66 30MT CABLE...
+     ID: Licitacion_217
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAaLF75q&awcharset=UTF-8
+     Fila Excel: 219
+--------------------------------------------------
+218. RFP Principal SR1585280555 WS1598628202 EXTENSIÓN UÑAS MONTA...
+     ID: Licitacion_218
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAtSl%2Bz1&awcharset=UTF-8
+     Fila Excel: 220
+--------------------------------------------------
+219. 6001032519-DAN-TAPA P PASACABLE PISO 102MMX15M...
+     ID: Licitacion_219
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB9%2BbwNcR&awcharset=UTF-8
+     Fila Excel: 221
+--------------------------------------------------
+220. 6001031310 - DAN - TAPA P PASACABLE PISO 102MMX15M...
+     ID: Licitacion_220
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB8cv7OTn&awcharset=UTF-8
+     Fila Excel: 222
+--------------------------------------------------
+221. 6001032104 DFV LLANTA GOMA SOLIDA PLN122010034...
+     ID: Licitacion_221
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB9QgztR7&awcharset=UTF-8
+     Fila Excel: 223
+--------------------------------------------------
+222. 6001012954...
+     ID: Licitacion_222
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBpgxcptz&awcharset=UTF-8
+     Fila Excel: 224
+--------------------------------------------------
+223. 60010339400 DET ZAPATA PLASSER THEURER WN146730K4...
+     ID: Licitacion_223
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21nBowPY&awcharset=UTF-8
+     Fila Excel: 225
+--------------------------------------------------
+224. 6001030387...
+     ID: Licitacion_224
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB7T%2BlVFB&awcharset=UTF-8
+     Fila Excel: 226
+--------------------------------------------------
+225. 6001013877...
+     ID: Licitacion_225
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBqLT%21qy0&awcharset=UTF-8
+     Fila Excel: 227
+--------------------------------------------------
+226. 6001031937...
+     ID: Licitacion_226
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB9LIcjsT&awcharset=UTF-8
+     Fila Excel: 228
+--------------------------------------------------
+227. RFP  PS SR1560838834 ANDAMIO MOVIL 3,90m 454kg ACERO WS16050...
+     ID: Licitacion_227
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBjM0pnb&awcharset=UTF-8
+     Fila Excel: 229
+--------------------------------------------------
+228. 6001034893...
+     ID: Licitacion_228
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAowLIM6&awcharset=UTF-8
+     Fila Excel: 230
+--------------------------------------------------
+229. 6001034808...
+     ID: Licitacion_229
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAmoEvN2&awcharset=UTF-8
+     Fila Excel: 231
+--------------------------------------------------
+230. 6001035711...
+     ID: Licitacion_230
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBmJ4gPt&awcharset=UTF-8
+     Fila Excel: 232
+--------------------------------------------------
+231. 6001035708...
+     ID: Licitacion_231
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBmEZPIn&awcharset=UTF-8
+     Fila Excel: 233
+--------------------------------------------------
+232. 6001035705...
+     ID: Licitacion_232
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBmDzXnO&awcharset=UTF-8
+     Fila Excel: 234
+--------------------------------------------------
+233. 6001035699...
+     ID: Licitacion_233
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBmBX7cs&awcharset=UTF-8
+     Fila Excel: 235
+--------------------------------------------------
+234. 6001035673...
+     ID: Licitacion_234
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBl7S5%21o&awcharset=UTF-8
+     Fila Excel: 236
+--------------------------------------------------
+235. 6001035671...
+     ID: Licitacion_235
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBl5jvVj&awcharset=UTF-8
+     Fila Excel: 237
+--------------------------------------------------
+236. 6001035689...
+     ID: Licitacion_236
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBlyKfba&awcharset=UTF-8
+     Fila Excel: 238
+--------------------------------------------------
+237. 6001035655...
+     ID: Licitacion_237
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBlF1QNC&awcharset=UTF-8
+     Fila Excel: 239
+--------------------------------------------------
+238. 6001035634...
+     ID: Licitacion_238
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBjuVzDY&awcharset=UTF-8
+     Fila Excel: 240
+--------------------------------------------------
+239. 6001035633...
+     ID: Licitacion_239
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBjvkw%2Bl&awcharset=UTF-8
+     Fila Excel: 241
+--------------------------------------------------
+240. 6001035642...
+     ID: Licitacion_240
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBjm1U02&awcharset=UTF-8
+     Fila Excel: 242
+--------------------------------------------------
+241. 6001035635...
+     ID: Licitacion_241
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBji8Jf%2B&awcharset=UTF-8
+     Fila Excel: 243
+--------------------------------------------------
+242. 6001035617...
+     ID: Licitacion_242
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBi4TlrM&awcharset=UTF-8
+     Fila Excel: 244
+--------------------------------------------------
+243. 6001035599...
+     ID: Licitacion_243
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBhEiv7Y&awcharset=UTF-8
+     Fila Excel: 245
+--------------------------------------------------
+244. 6001035598...
+     ID: Licitacion_244
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBhEkr2O&awcharset=UTF-8
+     Fila Excel: 246
+--------------------------------------------------
+245. 6001035449...
+     ID: Licitacion_245
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBZEWGyb&awcharset=UTF-8
+     Fila Excel: 247
+--------------------------------------------------
+246. 6001035432...
+     ID: Licitacion_246
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBYVaPt4&awcharset=UTF-8
+     Fila Excel: 248
+--------------------------------------------------
+247. 6001035430...
+     ID: Licitacion_247
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBXje85T&awcharset=UTF-8
+     Fila Excel: 249
+--------------------------------------------------
+248. 6001035416...
+     ID: Licitacion_248
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBWbbM3Y&awcharset=UTF-8
+     Fila Excel: 250
+--------------------------------------------------
+249. 6001035344...
+     ID: Licitacion_249
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBTuXMqH&awcharset=UTF-8
+     Fila Excel: 251
+--------------------------------------------------
+250. 6001035312...
+     ID: Licitacion_250
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBOn2AfG&awcharset=UTF-8
+     Fila Excel: 252
+--------------------------------------------------
+251. 6001035050 - DET - WIRING HARNESS SANDVIK BG00348078...
+     ID: Licitacion_251
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA5bOeOe&awcharset=UTF-8
+     Fila Excel: 253
+--------------------------------------------------
+252. 6001033809...
+     ID: Licitacion_252
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21gE2orR&awcharset=UTF-8
+     Fila Excel: 254
+--------------------------------------------------
+253. 6001032543 DET ASIENTO LOCOMOTORA PLN...
+     ID: Licitacion_253
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB9%2Bs%2Bwth&awcharset=UTF-8
+     Fila Excel: 255
+--------------------------------------------------
+254. 6001031455 DET PORTA SEGMENTO...
+     ID: Licitacion_254
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB89aKNUV&awcharset=UTF-8
+     Fila Excel: 256
+--------------------------------------------------
+255. 6001034158 MENTOR ERIEZ 77500052236100...
+     ID: Licitacion_255
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21%2B7a%21bb&awcharset=UTF-8
+     Fila Excel: 257
+--------------------------------------------------
+256. 6001034588 DET CILINDRO VOLTEO CJTO PLN...
+     ID: Licitacion_256
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAS%21zg9d&awcharset=UTF-8
+     Fila Excel: 258
+--------------------------------------------------
+257. 6001026563 PANTALLA CONTROL MORRIS 72833D2...
+     ID: Licitacion_257
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB3IkbUhF&awcharset=UTF-8
+     Fila Excel: 259
+--------------------------------------------------
+258. 6001027600 GRASERA BOTON HEMBRA AC...
+     ID: Licitacion_258
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB4Qq%2BCdl&awcharset=UTF-8
+     Fila Excel: 260
+--------------------------------------------------
+259. 6001027596 E-MOTOR 2.2KW...
+     ID: Licitacion_259
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB4QpDVcm&awcharset=UTF-8
+     Fila Excel: 261
+--------------------------------------------------
+260. 6001035190...
+     ID: Licitacion_260
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBH4%21XHL&awcharset=UTF-8
+     Fila Excel: 262
+--------------------------------------------------
+261. 6001034775 - DET - VALVULA REGULADORA FLUJO ANDRITZ 4081705...
+     ID: Licitacion_261
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAhEzf7b&awcharset=UTF-8
+     Fila Excel: 263
+--------------------------------------------------
+262. 6001035061 - DET - ESTACION LSMIDTH 5047945 - MATERIALES MIL...
+     ID: Licitacion_262
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCA5bgPdm&awcharset=UTF-8
+     Fila Excel: 264
+--------------------------------------------------
+263. IMCSPOT_T1_01067_ALFAMINE_10062025...
+     ID: Licitacion_263
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBY5qwSs&awcharset=UTF-8
+     Fila Excel: 265
+--------------------------------------------------
+264. 6001034748...
+     ID: Licitacion_264
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAg6C90z&awcharset=UTF-8
+     Fila Excel: 266
+--------------------------------------------------
+265. 6001033290 - DET - INSUMOS DE FERRETERIA...
+     ID: Licitacion_265
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%2B9kOEfl&awcharset=UTF-8
+     Fila Excel: 267
+--------------------------------------------------
+266. 6001034928...
+     ID: Licitacion_266
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAqiexFz&awcharset=UTF-8
+     Fila Excel: 268
+--------------------------------------------------
+267. 6001033539...
+     ID: Licitacion_267
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21TK5fuv&awcharset=UTF-8
+     Fila Excel: 269
+--------------------------------------------------
+268. 6001033817...
+     ID: Licitacion_268
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21g5Lhaa&awcharset=UTF-8
+     Fila Excel: 270
+--------------------------------------------------
+269. 6001033621...
+     ID: Licitacion_269
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21WcKvz7&awcharset=UTF-8
+     Fila Excel: 271
+--------------------------------------------------
+270. 6001033782...
+     ID: Licitacion_270
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21dmMJe8&awcharset=UTF-8
+     Fila Excel: 272
+--------------------------------------------------
+271. 6001034827...
+     ID: Licitacion_271
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAmyY5Sw&awcharset=UTF-8
+     Fila Excel: 273
+--------------------------------------------------
+272. 6001034479...
+     ID: Licitacion_272
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAMS4fxB&awcharset=UTF-8
+     Fila Excel: 274
+--------------------------------------------------
+273. 6001034986 DET-CILINDRO HIDRAULICO TOLVA PLNIG8135375...
+     ID: Licitacion_273
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAun0cwJ&awcharset=UTF-8
+     Fila Excel: 275
+--------------------------------------------------
+274. 6001034742 - DET - MANGA PV SBRT 150mm OUTOTEC L459376 -AMPL...
+     ID: Licitacion_274
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAgy8iwC&awcharset=UTF-8
+     Fila Excel: 276
+--------------------------------------------------
+275. 6001034820...
+     ID: Licitacion_275
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAmiDW%216&awcharset=UTF-8
+     Fila Excel: 277
+--------------------------------------------------
+276. 6001034392 DAN CABLE 7GX1MM2 18AWG LAPP GROUP 1123274...
+     ID: Licitacion_276
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAKv%21zLW&awcharset=UTF-8
+     Fila Excel: 278
+--------------------------------------------------
+277. 6001034618 DAN TUERCAS - GOLILLAS -PERNOS...
+     ID: Licitacion_277
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAXyH7D1&awcharset=UTF-8
+     Fila Excel: 279
+--------------------------------------------------
+278. 6001033931...
+     ID: Licitacion_278
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21lgD1zQ&awcharset=UTF-8
+     Fila Excel: 280
+--------------------------------------------------
+279. 6001034806...
+     ID: Licitacion_279
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAmm8vM1&awcharset=UTF-8
+     Fila Excel: 281
+--------------------------------------------------
+280. 6001034321 - DET - SUM MTTO EQUIPOS DE ELECTRICIDAD Y COMPON...
+     ID: Licitacion_280
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAEvEL%2Bb&awcharset=UTF-8
+     Fila Excel: 282
+--------------------------------------------------
+281. 6001034491...
+     ID: Licitacion_281
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCANBelid&awcharset=UTF-8
+     Fila Excel: 283
+--------------------------------------------------
+282. 6001033634 TABLERO DIELEC PLN101CBRT695BA...
+     ID: Licitacion_282
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21WoKOLG&awcharset=UTF-8
+     Fila Excel: 284
+--------------------------------------------------
+283. 6001034493...
+     ID: Licitacion_283
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCANtBQ5q&awcharset=UTF-8
+     Fila Excel: 285
+--------------------------------------------------
+284. 6001034045...
+     ID: Licitacion_284
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21yvUuNS&awcharset=UTF-8
+     Fila Excel: 286
+--------------------------------------------------
+285. 6001034396 DAN CORDON FLEXIBLE  SJE 18AWG 2_C...
+     ID: Licitacion_285
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAKwz6YO&awcharset=UTF-8
+     Fila Excel: 287
+--------------------------------------------------
+286. 6001033916...
+     ID: Licitacion_286
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21kJuICo&awcharset=UTF-8
+     Fila Excel: 288
+--------------------------------------------------
+287. 6001035013 DFV VARIOS SUM MTTO EQUIPOS DE ELECTRICIDAD Y COM...
+     ID: Licitacion_287
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAuxrk85&awcharset=UTF-8
+     Fila Excel: 289
+--------------------------------------------------
+288. 6001031025...
+     ID: Licitacion_288
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB8DbOTKC&awcharset=UTF-8
+     Fila Excel: 290
+--------------------------------------------------
+289. 6001033703...
+     ID: Licitacion_289
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21WnEo%219&awcharset=UTF-8
+     Fila Excel: 291
+--------------------------------------------------
+290. 6001033719...
+     ID: Licitacion_290
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21W7a0Dp&awcharset=UTF-8
+     Fila Excel: 292
+--------------------------------------------------
+291. 6001034467...
+     ID: Licitacion_291
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAMHb6nf&awcharset=UTF-8
+     Fila Excel: 293
+--------------------------------------------------
+292. 6001033591...
+     ID: Licitacion_292
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21WO47Ze&awcharset=UTF-8
+     Fila Excel: 294
+--------------------------------------------------
+293. 6001034141...
+     ID: Licitacion_293
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%219ihhsY&awcharset=UTF-8
+     Fila Excel: 295
+--------------------------------------------------
+294. 6001035015 DFV CAJA POLIM DOBLE MET PLN12470158010 REV1...
+     ID: Licitacion_294
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAuxrmHr&awcharset=UTF-8
+     Fila Excel: 296
+--------------------------------------------------
+295. 6001033452...
+     ID: Licitacion_295
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21Iv3hSL&awcharset=UTF-8
+     Fila Excel: 297
+--------------------------------------------------
+296. 6001034258 - DGM - INSUMOS DE FERRETERIA...
+     ID: Licitacion_296
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAB83F27&awcharset=UTF-8
+     Fila Excel: 298
+--------------------------------------------------
+297. 6001034532...
+     ID: Licitacion_297
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAQD7t%2Bz&awcharset=UTF-8
+     Fila Excel: 299
+--------------------------------------------------
+298. 6001034201...
+     ID: Licitacion_298
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21%21YiFLN&awcharset=UTF-8
+     Fila Excel: 300
+--------------------------------------------------
+299. 6001033915...
+     ID: Licitacion_299
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21kJuGha&awcharset=UTF-8
+     Fila Excel: 301
+--------------------------------------------------
+300. 6001032224...
+     ID: Licitacion_300
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB9iCb%21IP&awcharset=UTF-8
+     Fila Excel: 302
+--------------------------------------------------
+301. 6001034035...
+     ID: Licitacion_301
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21yuIalV&awcharset=UTF-8
+     Fila Excel: 303
+--------------------------------------------------
+302. 6001034136...
+     ID: Licitacion_302
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%218zRMNW&awcharset=UTF-8
+     Fila Excel: 304
+--------------------------------------------------
+303. 6001032570 - DET - INSUMOS DE FERRETERIA...
+     ID: Licitacion_303
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%2BB48Y6h&awcharset=UTF-8
+     Fila Excel: 305
+--------------------------------------------------
+304. 6001031178...
+     ID: Licitacion_304
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB8M16SHD&awcharset=UTF-8
+     Fila Excel: 306
+--------------------------------------------------
+305. 6001034708...
+     ID: Licitacion_305
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAdFLRva&awcharset=UTF-8
+     Fila Excel: 307
+--------------------------------------------------
+306. 6001034182 DAN SELLO JG ACOPCO 6060012596...
+     ID: Licitacion_306
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21%2BJDsDx&awcharset=UTF-8
+     Fila Excel: 308
+--------------------------------------------------
+307. 6001034492...
+     ID: Licitacion_307
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCANsNyk8&awcharset=UTF-8
+     Fila Excel: 309
+--------------------------------------------------
+308. 6001034367...
+     ID: Licitacion_308
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAJxUBu5&awcharset=UTF-8
+     Fila Excel: 310
+--------------------------------------------------
+309. 6001034591 DET-SUM MTTO EQUIPOS DE ELECTRICIDAD Y COMPONENTE...
+     ID: Licitacion_309
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAS%212%21UF&awcharset=UTF-8
+     Fila Excel: 311
+--------------------------------------------------
+310. 6001034134...
+     ID: Licitacion_310
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%2181iLt%2B&awcharset=UTF-8
+     Fila Excel: 312
+--------------------------------------------------
+311. 6001034743 - DET - ELECTROVENTILADOR RED DOT EV24V80W...
+     ID: Licitacion_311
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAgzhC1C&awcharset=UTF-8
+     Fila Excel: 313
+--------------------------------------------------
+312. 6001034648 - DAN - CILINDRO HIDRAULICO ENERPAC RC106...
+     ID: Licitacion_312
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAZUQMVN&awcharset=UTF-8
+     Fila Excel: 314
+--------------------------------------------------
+313. 6001034223...
+     ID: Licitacion_313
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAA2ihl3&awcharset=UTF-8
+     Fila Excel: 315
+--------------------------------------------------
+314. 6001034113 DET-PERNO AC HEX CTE...
+     ID: Licitacion_314
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%2109AghZ&awcharset=UTF-8
+     Fila Excel: 316
+--------------------------------------------------
+315. 6001033343 - DET - AGITADOR 2425mm 5-35 C 195rpm 11kW 575V...
+     ID: Licitacion_315
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%2B9fAAKW&awcharset=UTF-8
+     Fila Excel: 317
+--------------------------------------------------
+316. 6001034416...
+     ID: Licitacion_316
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAMfhtKw&awcharset=UTF-8
+     Fila Excel: 318
+--------------------------------------------------
+317. 6001034723...
+     ID: Licitacion_317
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAdh9jPV&awcharset=UTF-8
+     Fila Excel: 319
+--------------------------------------------------
+318. 6001034555...
+     ID: Licitacion_318
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAQQhwCD&awcharset=UTF-8
+     Fila Excel: 320
+--------------------------------------------------
+319. 6001031016...
+     ID: Licitacion_319
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB8Bsx5fH&awcharset=UTF-8
+     Fila Excel: 321
+--------------------------------------------------
+320. 6001033535 DESPEGADORA PLN25016SP01ME1001 REV0...
+     ID: Licitacion_320
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21SZMsdE&awcharset=UTF-8
+     Fila Excel: 322
+--------------------------------------------------
+321. 6001034923...
+     ID: Licitacion_321
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAqcliHV&awcharset=UTF-8
+     Fila Excel: 323
+--------------------------------------------------
+322. 6001034774 - DET - ELEM ELAST VULKAN FLEXOMAX GSN200-MOTORRE...
+     ID: Licitacion_322
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAhFVXH%2B&awcharset=UTF-8
+     Fila Excel: 324
+--------------------------------------------------
+323. 6001031799-DAN-ANTICOLISION PORTATIL JG WABTEC CGVGCHL...
+     ID: Licitacion_323
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB8%21R2L8k&awcharset=UTF-8
+     Fila Excel: 325
+--------------------------------------------------
+324. 6001030060...
+     ID: Licitacion_324
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB62zNDdT&awcharset=UTF-8
+     Fila Excel: 326
+--------------------------------------------------
+325. 6001030674...
+     ID: Licitacion_325
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB7nJLWHt&awcharset=UTF-8
+     Fila Excel: 327
+--------------------------------------------------
+326. PS SR1570669446 WS1597101051...
+     ID: Licitacion_326
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAf%21W4nW&awcharset=UTF-8
+     Fila Excel: 328
+--------------------------------------------------
+327. 6001033982...
+     ID: Licitacion_327
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21tFc6Wl&awcharset=UTF-8
+     Fila Excel: 329
+--------------------------------------------------
+328. 6001027241...
+     ID: Licitacion_328
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB35nTbBw&awcharset=UTF-8
+     Fila Excel: 330
+--------------------------------------------------
+329. 6001031312 - DAN - ANTICOLISION PORTATIL JG WABTEC CGVGCHL...
+     ID: Licitacion_329
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB8cvnNWC&awcharset=UTF-8
+     Fila Excel: 331
+--------------------------------------------------
+330. 6001025781...
+     ID: Licitacion_330
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB2pleVjx&awcharset=UTF-8
+     Fila Excel: 332
+--------------------------------------------------
+331. 6001034674 DGM POSTE HORMIGON ARMADO H 15m P DISTR...
+     ID: Licitacion_331
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAaSwYGh&awcharset=UTF-8
+     Fila Excel: 333
+--------------------------------------------------
+332. 6001034672...
+     ID: Licitacion_332
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAaQSx1%21&awcharset=UTF-8
+     Fila Excel: 334
+--------------------------------------------------
+333. 6001034615...
+     ID: Licitacion_333
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAW5uynu&awcharset=UTF-8
+     Fila Excel: 335
+--------------------------------------------------
+334. 6001034572 DET-VARIOS...
+     ID: Licitacion_334
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAR50YSc&awcharset=UTF-8
+     Fila Excel: 336
+--------------------------------------------------
+335. 6001035512...
+     ID: Licitacion_335
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBaFHyCB&awcharset=UTF-8
+     Fila Excel: 337
+--------------------------------------------------
+336. 6001034313 - DET - PISTON GUIDE EX3115297300 ACOPCO 3115297...
+     ID: Licitacion_336
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAEmqFHk&awcharset=UTF-8
+     Fila Excel: 338
+--------------------------------------------------
+337. 6001034334 - DET - CILINDRO CLAMP BAFCO 521936A...
+     ID: Licitacion_337
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAE1APHm&awcharset=UTF-8
+     Fila Excel: 339
+--------------------------------------------------
+338. 6001034725 - DET - JUNTA TORICA LAROX 5185...
+     ID: Licitacion_338
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAdu6JrQ&awcharset=UTF-8
+     Fila Excel: 340
+--------------------------------------------------
+339. 6001031612...
+     ID: Licitacion_339
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB8%2BxUwJ9&awcharset=UTF-8
+     Fila Excel: 341
+--------------------------------------------------
+340. 6001031334...
+     ID: Licitacion_340
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB8dlO9NI&awcharset=UTF-8
+     Fila Excel: 342
+--------------------------------------------------
+341. 6001027928...
+     ID: Licitacion_341
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB4lbkjaI&awcharset=UTF-8
+     Fila Excel: 343
+--------------------------------------------------
+342. 6001031554...
+     ID: Licitacion_342
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB8%2BU7LGT&awcharset=UTF-8
+     Fila Excel: 344
+--------------------------------------------------
+343. 6001029194...
+     ID: Licitacion_343
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB5%2BU%2110b&awcharset=UTF-8
+     Fila Excel: 345
+--------------------------------------------------
+344. 6001030205...
+     ID: Licitacion_344
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB67t9jtT&awcharset=UTF-8
+     Fila Excel: 346
+--------------------------------------------------
+345. 6001033218...
+     ID: Licitacion_345
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%2B4z%2BMO%21&awcharset=UTF-8
+     Fila Excel: 347
+--------------------------------------------------
+346. 6001032482 - DET - CILINDRO NEUMATICO 6 PLN912330MPL010...
+     ID: Licitacion_346
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%2BeyFaIK&awcharset=UTF-8
+     Fila Excel: 348
+--------------------------------------------------
+347. 6001029494-DAN-BUJE PLNCRM2024081 REV0...
+     ID: Licitacion_347
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB6TLg%2BlI&awcharset=UTF-8
+     Fila Excel: 349
+--------------------------------------------------
+348. 6001034026...
+     ID: Licitacion_348
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB%21yp7k4N&awcharset=UTF-8
+     Fila Excel: 350
+--------------------------------------------------
+349. 6001030899...
+     ID: Licitacion_349
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB76DfkaF&awcharset=UTF-8
+     Fila Excel: 351
+--------------------------------------------------
+350. 6001030023...
+     ID: Licitacion_350
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB611Tp5m&awcharset=UTF-8
+     Fila Excel: 352
+--------------------------------------------------
+351. 6001032335...
+     ID: Licitacion_351
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB9sU9L2x&awcharset=UTF-8
+     Fila Excel: 353
+--------------------------------------------------
+352. 6001019859...
+     ID: Licitacion_352
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBvI9FapB&awcharset=UTF-8
+     Fila Excel: 354
+--------------------------------------------------
+353. 6001020560...
+     ID: Licitacion_353
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBwgzJ9As&awcharset=UTF-8
+     Fila Excel: 355
+--------------------------------------------------
+354. 6001020561...
+     ID: Licitacion_354
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBwgz16AN&awcharset=UTF-8
+     Fila Excel: 356
+--------------------------------------------------
+355. 6001020827...
+     ID: Licitacion_355
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBw9zOS6%21&awcharset=UTF-8
+     Fila Excel: 357
+--------------------------------------------------
+356. 6001034400...
+     ID: Licitacion_356
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAK2WZcS&awcharset=UTF-8
+     Fila Excel: 358
+--------------------------------------------------
+357. 6001020863...
+     ID: Licitacion_357
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBxBLbN%21n&awcharset=UTF-8
+     Fila Excel: 359
+--------------------------------------------------
+358. 6001021548...
+     ID: Licitacion_358
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBx%21yakQA&awcharset=UTF-8
+     Fila Excel: 360
+--------------------------------------------------
+359. 6001021635...
+     ID: Licitacion_359
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjByAY4DKQ&awcharset=UTF-8
+     Fila Excel: 361
+--------------------------------------------------
+360. 6001021778...
+     ID: Licitacion_360
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjByGw9k7d&awcharset=UTF-8
+     Fila Excel: 362
+--------------------------------------------------
+361. 6001021779...
+     ID: Licitacion_361
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjByQmPA8L&awcharset=UTF-8
+     Fila Excel: 363
+--------------------------------------------------
+362. 6001021820 DET ELECTROVENTILADOR RED DOT EV24V80W...
+     ID: Licitacion_362
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBx%21Fm%21vk&awcharset=UTF-8
+     Fila Excel: 364
+--------------------------------------------------
+363. 6001034422...
+     ID: Licitacion_363
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCAMlKI%21J&awcharset=UTF-8
+     Fila Excel: 365
+--------------------------------------------------
+364. 6001024023 DET SOPORTE MONTAJE SANDVIK-BLOQUE APOYO SANDVIK-...
+     ID: Licitacion_364
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjB0hp66U0&awcharset=UTF-8
+     Fila Excel: 366
+--------------------------------------------------
+365. 6001023284...
+     ID: Licitacion_365
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBzh4L8tq&awcharset=UTF-8
+     Fila Excel: 367
+--------------------------------------------------
+366. 6001022022...
+     ID: Licitacion_366
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjByIQG82V&awcharset=UTF-8
+     Fila Excel: 368
+--------------------------------------------------
+367. 6001022774 DET CJTO VALVULA SANDVIK 56209600...
+     ID: Licitacion_367
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBzWTWQL4&awcharset=UTF-8
+     Fila Excel: 369
+--------------------------------------------------
+368. 6001022772 DET ADAPTADOR CODO SANDVIK 04182400...
+     ID: Licitacion_368
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBzWRFiQw&awcharset=UTF-8
+     Fila Excel: 370
+--------------------------------------------------
+369. 6001035473...
+     ID: Licitacion_369
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBZfYSoG&awcharset=UTF-8
+     Fila Excel: 371
+--------------------------------------------------
+370. 6001035468...
+     ID: Licitacion_370
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBZduIFp&awcharset=UTF-8
+     Fila Excel: 372
+--------------------------------------------------
+371. 6001035455...
+     ID: Licitacion_371
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBiZMNJO&awcharset=UTF-8
+     Fila Excel: 373
+--------------------------------------------------
+372. 6001014172...
+     ID: Licitacion_372
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBqWFTQOm&awcharset=UTF-8
+     Fila Excel: 374
+--------------------------------------------------
+373. 6001035129...
+     ID: Licitacion_373
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjCBGMOBOg&awcharset=UTF-8
+     Fila Excel: 375
+--------------------------------------------------
+374. 6001015443...
+     ID: Licitacion_374
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBrRqvWoG&awcharset=UTF-8
+     Fila Excel: 376
+--------------------------------------------------
+375. 6001015444...
+     ID: Licitacion_375
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBrRqvbR3&awcharset=UTF-8
+     Fila Excel: 377
+--------------------------------------------------
+376. 6001018745...
+     ID: Licitacion_376
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBudldJyx&awcharset=UTF-8
+     Fila Excel: 378
+--------------------------------------------------
+377. 6001010273...
+     ID: Licitacion_377
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBm5vzgVv&awcharset=UTF-8
+     Fila Excel: 379
+--------------------------------------------------
+378. 6001019356 DGM PASADOR CIL...
+     ID: Licitacion_378
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBussYWo4&awcharset=UTF-8
+     Fila Excel: 380
+--------------------------------------------------
+379. 6001018917...
+     ID: Licitacion_379
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBueNPnrf&awcharset=UTF-8
+     Fila Excel: 381
+--------------------------------------------------
+380. 6001018891...
+     ID: Licitacion_380
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBueMGIPa&awcharset=UTF-8
+     Fila Excel: 382
+--------------------------------------------------
+381. 6001018889...
+     ID: Licitacion_381
+     URL: https://portaldenegocios-codelco.supplier3.ariba.com/ad/webjumper?itemID=NXp4APjBueMGGgw&awcharset=UTF-8
+     Fila Excel: 383
+--------------------------------------------------
