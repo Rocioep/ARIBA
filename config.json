@@ -1,0 +1,301 @@
+{
+    "ariba_credentials": {
+        "username": "sales@alfamine.cl",
+        "password": "VI.2024al..al.",
+        "url": "https://service.ariba.com/Sourcing.aw/109555009/aw?awh=r&awssk=XZHPCxm2&dard=1"
+    },
+    "search_criteria": {
+        "lineas_producto": {
+            "ALFAMINE_PREMIUM": {
+                "keywords": [
+                    "ZAPATA",
+                    "ZAPATAS",
+                    "SHOE",
+                    "TRACK SHOE",
+                    "CADENA",
+                    "CADENAS",
+                    "CHAIN",
+                    "TRACK CHAIN",
+                    "RODILLOS",
+                    "ROLLER",
+                    "TRACK ROLLER",
+                    "BOTTOM ROLLER",
+                    "SPROCKET",
+                    "SPROCKETS",
+                    "RUEDA DENTADA",
+                    "RUEDA TENSORA",
+                    "IDLER",
+                    "FRONT IDLER",
+                    "GEARBOX",
+                    "CAJA DE CAMBIOS",
+                    "TRANSMISSION",
+                    "REDUCTOR",
+                    "REDUCER",
+                    "FINAL DRIVE",
+                    "MANDO FINAL",
+                    "MF",
+                    "DRIVE MOTOR"
+                ],
+                "score": 30
+            },
+            "ALFAMINE_STANDARD": {
+                "keywords": [
+                    "TREN DE RODAJE",
+                    "UNDERCARRIAGE",
+                    "UC",
+                    "TRACK",
+                    "ORUGA",
+                    "ORUGAS",
+                    "BOGGIE",
+                    "BOGIE",
+                    "TRUCK",
+                    "DIFFERENTIAL",
+                    "DIFERENCIAL",
+                    "PLANETARY",
+                    "PLANETARIO",
+                    "HYDRAULIC MOTOR",
+                    "MOTOR HIDRAULICO",
+                    "SWING MOTOR",
+                    "MOTOR DE GIRO"
+                ],
+                "score": 25
+            },
+            "COMPONENTES_ESPECIALIZADOS": {
+                "keywords": [
+                    "BUSHING",
+                    "CASQUILLO",
+                    "SLEEVE",
+                    "PIN",
+                    "PASADOR",
+                    "PIVOT PIN",
+                    "SEAL",
+                    "SELLO",
+                    "O-RING",
+                    "BEARING",
+                    "RODAMIENTO",
+                    "COJINETE",
+                    "COUPLING",
+                    "ACOPLAMIENTO",
+                    "UNIVERSAL JOINT",
+                    "CARDAN"
+                ],
+                "score": 20
+            }
+        },
+        "perneria": {
+            "prefijos": [ "AL00", "AL01", "AL02" ],
+            "keywords": [
+                "PERNO",
+                "PERNOS",
+                "BOLT",
+                "BOLTS",
+                "TUERCA",
+                "TUERCAS",
+                "NUT",
+                "NUTS",
+                "CHAVETA",
+                "CHAVETAS",
+                "KEY",
+                "WOODRUFF",
+                "SCREW",
+                "TORNILLO",
+                "TORNILLOS",
+                "WASHER",
+                "ARANDELA",
+                "ARANDELAS",
+                "STUD",
+                "ESPÁRRAGO",
+                "THREAD ROD",
+                "SOCKET HEAD",
+                "ALLEN",
+                "HEX BOLT",
+                "FLANGE BOLT",
+                "PERNO BRIDA"
+            ],
+            "score": 15
+        },
+        "marcas": {
+            "TIER_1": {
+                "brands": [ "CAT", "CATERPILLAR", "KOMATSU", "KRESS" ],
+                "score": 15
+            },
+            "TIER_2": {
+                "brands": [
+                    "VOLVO",
+                    "LIEBHERR",
+                    "HITACHI",
+                    "JOHN DEERE",
+                    "JCB",
+                    "CASE",
+                    "KOBELCO",
+                    "KUBOTA",
+                    "YANMAR",
+                    "DOOSAN",
+                    "HYUNDAI",
+                    "SANY"
+                ],
+                "score": 12
+            },
+            "TIER_3": {
+                "brands": [
+                    "XCMG",
+                    "ZOOMLION",
+                    "LIUGONG",
+                    "SDLG",
+                    "LONKING",
+                    "XGMA",
+                    "BEIJING",
+                    "SHANTUI",
+                    "CHANGLIN"
+                ],
+                "score": 8
+            }
+        },
+        "sectores_objetivo": {
+            "MINERIA": {
+                "keywords": [
+                    "MINERIA",
+                    "MINING",
+                    "MINA",
+                    "MINE",
+                    "EXCAVADORA",
+                    "EXCAVATOR",
+                    "SHOVEL",
+                    "DUMPER",
+                    "DUMP TRUCK",
+                    "CAMION MINERO",
+                    "BULLDOZER",
+                    "DOZER",
+                    "TRACTOR",
+                    "WHEEL LOADER",
+                    "CARGADOR FRONTAL"
+                ],
+                "score": 10
+            },
+            "CONSTRUCCION": {
+                "keywords": [
+                    "CONSTRUCCION",
+                    "CONSTRUCTION",
+                    "OBRA",
+                    "RETROEXCAVADORA",
+                    "BACKHOE",
+                    "COMPACTADOR",
+                    "COMPACTOR",
+                    "ROLLER",
+                    "GRADER",
+                    "MOTONIVELADORA",
+                    "SCRAPER"
+                ],
+                "score": 8
+            }
+        },
+        "especificaciones_tecnicas": {
+            "DIMENSIONES": {
+                "patterns": [
+                    "\\d+\\s*MM",
+                    "\\d+\\s*CM",
+                    "\\d+\\s*INCH",
+                    "\\d+\\s*X\\s*\\d+",
+                    "DIA\\s*\\d+",
+                    "DIAMETRO\\s*\\d+",
+                    "DIAMETER\\s*\\d+"
+                ],
+                "score": 5
+            },
+            "MATERIALES": {
+                "keywords": [
+                    "ACERO",
+                    "STEEL",
+                    "HIERRO",
+                    "IRON",
+                    "CARBONO",
+                    "CARBON",
+                    "ALEACION",
+                    "ALLOY",
+                    "FORJADO",
+                    "FORGED",
+                    "FUNDIDO",
+                    "CAST"
+                ],
+                "score": 3
+            }
+        }
+    },
+    "scoring": {
+        "classification_thresholds": {
+            "ORO": 100,
+            "PLATA": 60,
+            "BRONCE": 30,
+            "DESCARTADO": 0
+        },
+        "bonus_multipliers": {
+            "multiple_categories": 1.2,
+            "premium_brand_combo": 1.3,
+            "high_volume_indicators": 1.1
+        },
+        "high_value_indicators": [
+            "LOTE",
+            "BATCH",
+            "CANTIDAD",
+            "ANUAL",
+            "ANNUAL",
+            "MENSUAL",
+            "MONTHLY",
+            "MARCO",
+            "FRAMEWORK",
+            "CONVENIO"
+        ]
+    },
+    "processing": {
+        "keep_files": [ "ORO", "PLATA" ],
+        "delete_immediately": [ "DESCARTADO" ],
+        "delete_after_report": [ "BRONCE" ],
+        "max_concurrent": 1,
+        "delay_between_requests": 2
+    },
+    "filters": {
+        "exclude_keywords": [
+            "USADO",
+            "SECOND HAND",
+            "REFURBISHED",
+            "REPARACION",
+            "REPAIR",
+            "MAINTENANCE",
+            "SERVICIO",
+            "SERVICE",
+            "CONSULTORIA"
+        ],
+        "minimum_amount_indicators": [
+            "MONTO",
+            "AMOUNT",
+            "VALOR",
+            "VALUE",
+            "PRESUPUESTO",
+            "BUDGET"
+        ],
+        "preferred_currencies": [ "CLP", "USD", "EUR" ]
+    },
+    "scraping": {
+        "browser_type": "firefox",
+        "headless": false,
+        "timeout": 30,
+        "max_retries": 3,
+        "download_timeout": 120,
+        "page_load_strategy": "normal"
+    },
+    "notifications": {
+        "gmail_enabled": false,
+        "recipients": [ "sales@alfamine.cl" ],
+        "alert_thresholds": {
+            "oro_found": 1,
+            "plata_found": 3,
+            "total_opportunities": 10
+        }
+    },
+    "reporting": {
+        "include_screenshots": false,
+        "detailed_analysis": true,
+        "export_formats": [ "excel", "json", "csv" ],
+        "auto_generate_summary": true
+    }
+}
